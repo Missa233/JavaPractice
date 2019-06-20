@@ -15,7 +15,7 @@ public class HelloWorld {
 
         scan.close(); // close scanner
 
-        System.out.println("Hello, World.");
+        System.out.println("Hello, World!");
 
         System.out.println(s);
 
